@@ -1,80 +1,92 @@
-# Hi there, I'm Dulanjali De Silva 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2puZ3g0b3N5cnZ4NDBnbm91dms3ZzB4eW1nd3g0Z3N5cnZ4NDBnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="35">
+<!-- HEADER ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Dulanjali+De+Silva;" alt="Typing Effect" />
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%8D%93+IT+Undergraduate;%F0%9F%8A%A8+UI%2FUX+Enthusiast;" alt="Role Typing" />
+  </p>
+</div>
+
+<br />
+
+<!-- COOL DEVELOPER GIF ANIMATION -->
+<div align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401bbdc27e1ed8c424/1515644754593-M3P4UJZBOM0P310ST1B0/coding-space.gif" width="60%" alt="Developer Animation" style="border-radius: 10px;" />
+</div>
+
+---
+
+### 💫 About Me
+- 🔭 I’m currently working on building scalable web applications.
+- 🌱 I’m currently learning advanced backend architecture and cloud services.
+- ⚡ Fun fact: I love turning coffee into clean, working code!
+
+---
+
+### 💻 Tech Stack & Tools
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=false&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;IT+Undergraduate+%F0%9F%8E%93;UI%2FUX+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  
+  <!-- Backend & DB -->
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" style="background-color: white; padding: 2px; border-radius: 4px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>⚡ I am an enthusiastic <b>Full-Stack Developer</b> and IT Undergraduate passionate about crafting clean, efficient code and intuitive user experiences.</p>
-      <p>🌱 I'm currently expanding my knowledge in advanced architectural patterns and cloud technologies.</p>
-      <p>🔭 I’m looking to collaborate on open-source projects and innovative software applications.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MxYTM1bTI0N2NwaXNxbWR4bXZqN3h6eHh4eHh4eHh4eHh4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZvikrO9MvT68R0jshQ/giphy.gif" width="220" alt="Coding Cat">
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Analytics (Animated Dashboard)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dulanjalidesilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dulanjali's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanjalidesilva&layout=compact&theme=radical&langs_count=7" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <!-- Contribution Snake Animation -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulanjalidesilva&theme=react-dark" width="100%" alt="Activity Graph" />
+</div>
 
 ---
 
-## 💻 Tech Stack & Tools
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🛠️ Version Control & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dulanjalidesilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanjalidesilva&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulanjalidesilva&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect with Me
+### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dulanjali-de-silva-1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="http://www.linkedin.com/in/dulanjali-de-silva-1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thaushidulanjali07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dulanjalidesilva&color=critical&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
