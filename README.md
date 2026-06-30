@@ -9,9 +9,9 @@
 
 <br />
 
-<!-- COOL DEVELOPER GIF ANIMATION -->
+<!-- CAT TYPING GIF ANIMATION FROM IMAGE_743E82.PNG -->
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401bbdc27e1ed8c424/1515644754593-M3P4UJZBOM0P310ST1B0/coding-space.gif" width="60%" alt="Developer Animation" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0NWF2czFmZjI1MTJ3cjY1ZmdvOW84Z3A3b3U5b3E0bXZvNXZ4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="50%" alt="Cat Coding Animation" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
   
   <br />
   
-  <!-- Contribution Snake Animation -->
+  <!-- Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulanjalidesilva&theme=react-dark" width="100%" alt="Activity Graph" />
 </div>
 
